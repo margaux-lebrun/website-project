@@ -1,0 +1,21 @@
+.upperbar {
+	padding-left: 0px;
+}
+
+.upperbar li {
+	list-style: none;
+	display: inline;
+	text-align: center;
+}
+
+.upperbar a {
+	font-weight: 100;
+	font-size: 15px;
+	color:rgb(50,50,50);
+}
+
+.upperbar a:hover {
+	color: white;
+	background-color: black;
+	text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.btn-green {
+	margin-top: 100px;
+	margin-left: 37%;
+	background: rgb(140, 243, 212);
+	padding: 10px 10px;
+	color: white; 
+	border-radius: 4px;
+}
+
+.btn-green:hover {
+	color: white;
+	background: black;
+	transition: background 0.3s ease;
+}
